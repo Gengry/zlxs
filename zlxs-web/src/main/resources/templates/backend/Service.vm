@@ -1,0 +1,13 @@
+package ${package_name}.service;
+
+import com.fh.hbc.gpweb.base.BaseService;
+import ${package_name}.dao.model.${model};
+import ${package_name}.dao.model.${model}Example;
+
+/**
+* ${model}Service接口
+* Created by Gengry on ${ctime}.
+*/
+public interface ${model}Service extends BaseService<${model}, ${model}Example> {
+
+}

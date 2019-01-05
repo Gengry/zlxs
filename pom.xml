@@ -7,6 +7,10 @@
     <groupId>com.geng.cpw</groupId>
     <artifactId>zlxs</artifactId>
     <version>1.0.0</version>
+    <packaging>pom</packaging>
 
+    <modules>
+        <module>zlxs-web</module>
+    </modules>
 
 </project>
