@@ -22,13 +22,13 @@ public class WebAppConfigurer extends WebMvcConfigurerAdapter {
         return new WebMvcConfigurerAdapter() {
             @Override
             public void addCorsMappings(CorsRegistry registry) {
-//				registry.addMapping("/api/**");
                 registry.addMapping("/**")
                         .allowedOrigins("*")
                         .allowedMethods("GET", "POST", "DELETE", "PUT", "OPTIONS")
                         .allowCredentials(false).maxAge(3600);
             }
-        };}
+        };
+    }
 
 
     @Override

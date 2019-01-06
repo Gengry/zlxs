@@ -2,55 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c2d85882-3d71-4cb8-a336-a815210e3ca8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/zlxs-web/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zlxs-web/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zlxs-web/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zlxs-web/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zlxs-web/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zlxs-web/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zlxs-web/src/main/java/com/geng/cpw/zlxsweb/ServletInitializer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zlxs-web/src/main/java/com/geng/cpw/zlxsweb/ZlxsWebApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zlxs-web/src/main/java/com/geng/cpw/zlxsweb/annotation/BaseService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zlxs-web/src/main/java/com/geng/cpw/zlxsweb/base/BaseInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zlxs-web/src/main/java/com/geng/cpw/zlxsweb/base/BaseResult.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zlxs-web/src/main/java/com/geng/cpw/zlxsweb/base/BaseService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zlxs-web/src/main/java/com/geng/cpw/zlxsweb/base/BaseServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zlxs-web/src/main/java/com/geng/cpw/zlxsweb/base/BaseServiceMock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zlxs-web/src/main/java/com/geng/cpw/zlxsweb/base/ResultConstant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zlxs-web/src/main/java/com/geng/cpw/zlxsweb/common/AESUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zlxs-web/src/main/java/com/geng/cpw/zlxsweb/common/CaptchaUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zlxs-web/src/main/java/com/geng/cpw/zlxsweb/common/CheckSumBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zlxs-web/src/main/java/com/geng/cpw/zlxsweb/common/CookieUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zlxs-web/src/main/java/com/geng/cpw/zlxsweb/common/DocUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zlxs-web/src/main/java/com/geng/cpw/zlxsweb/common/JarUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zlxs-web/src/main/java/com/geng/cpw/zlxsweb/common/JdbcUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zlxs-web/src/main/java/com/geng/cpw/zlxsweb/common/MD5Util.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zlxs-web/src/main/java/com/geng/cpw/zlxsweb/common/PropertiesFileUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zlxs-web/src/main/java/com/geng/cpw/zlxsweb/common/RequestUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zlxs-web/src/main/java/com/geng/cpw/zlxsweb/common/SpringContextUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zlxs-web/src/main/java/com/geng/cpw/zlxsweb/common/StringUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zlxs-web/src/main/java/com/geng/cpw/zlxsweb/common/VelocityUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zlxs-web/src/main/java/com/geng/cpw/zlxsweb/common/generator/MybatisGeneratorUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zlxs-web/src/main/java/com/geng/cpw/zlxsweb/common/generator/plugin/CommentGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zlxs-web/src/main/java/com/geng/cpw/zlxsweb/common/generator/plugin/SerializablePlugin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zlxs-web/src/main/java/com/geng/cpw/zlxsweb/common/key/SnowflakeIdWorker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zlxs-web/src/main/java/com/geng/cpw/zlxsweb/common/key/SystemClock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zlxs-web/src/main/java/com/geng/cpw/zlxsweb/config/DataBaseConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zlxs-web/src/main/java/com/geng/cpw/zlxsweb/config/WebAppConfigurer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zlxs-web/src/main/java/com/geng/cpw/zlxsweb/controller/LoginController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zlxs-web/src/main/java/com/geng/cpw/zlxsweb/listener/ApplicationContextListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zlxs-web/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zlxs-web/src/main/resources/templates/backend/Controller.vm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zlxs-web/src/main/resources/templates/backend/Service.vm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zlxs-web/src/main/resources/templates/backend/ServiceImpl.vm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zlxs-web/src/main/resources/templates/backend/ServiceMock.vm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zlxs-web/src/main/resources/templates/backend/generatorConfig.vm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zlxs-web/src/test/java/com/geng/cpw/zlxsweb/ZlxsWebApplicationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zlxs-admin/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/zlxs-admin/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zlxs-admin/src/api/user.js" beforeDir="false" afterPath="$PROJECT_DIR$/zlxs-admin/src/api/user.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zlxs-admin/src/config/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/zlxs-admin/src/config/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zlxs-admin/src/router/routers.js" beforeDir="false" afterPath="$PROJECT_DIR$/zlxs-admin/src/router/routers.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zlxs-admin/src/store/module/user.js" beforeDir="false" afterPath="$PROJECT_DIR$/zlxs-admin/src/store/module/user.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zlxs-web/src/main/java/com/geng/cpw/zlxsweb/config/WebAppConfigurer.java" beforeDir="false" afterPath="$PROJECT_DIR$/zlxs-web/src/main/java/com/geng/cpw/zlxsweb/config/WebAppConfigurer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zlxs-web/src/main/java/com/geng/cpw/zlxsweb/controller/LoginController.java" beforeDir="false" afterPath="$PROJECT_DIR$/zlxs-web/src/main/java/com/geng/cpw/zlxsweb/controller/LoginController.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -65,99 +24,15 @@
     <option name="MAKE_PROJECT_ON_SAVE" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/zlxs-web/src/main/java/com/geng/cpw/zlxsweb/base/BaseService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/zlxs-web/src/main/java/com/geng/cpw/zlxsweb/base/BaseResult.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/zlxs-web/src/main/java/com/geng/cpw/zlxsweb/base/BaseInterface.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/zlxs-web/src/main/java/com/geng/cpw/zlxsweb/annotation/BaseService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/zlxs-web/src/main/java/com/geng/cpw/zlxsweb/base/BaseServiceImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="953">
-              <caret line="378" column="39" selection-start-line="378" selection-start-column="39" selection-end-line="378" selection-end-column="39" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/zlxs-web/src/main/java/com/geng/cpw/zlxsweb/ServletInitializer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/zlxs-web/src/main/java/com/geng/cpw/zlxsweb/base/BaseServiceMock.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/zlxs-web/src/main/java/com/geng/cpw/zlxsweb/common/generator/MybatisGeneratorUtil.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="350">
-              <caret line="192" column="51" lean-forward="true" selection-start-line="192" selection-start-column="51" selection-end-line="192" selection-end-column="51" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/zlxs-web/src/main/java/com/geng/cpw/zlxsweb/config/DataBaseConfiguration.java">
+        <entry file="file://$PROJECT_DIR$/zlxs-web/src/main/java/com/geng/cpw/zlxsweb/controller/LoginController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="29" column="83" selection-start-line="29" selection-start-column="83" selection-end-line="29" selection-end-column="83" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/zlxs-web/src/main/resources/application.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="81" />
+            <state relative-caret-position="356">
+              <caret line="41" column="16" selection-start-line="41" selection-start-column="16" selection-end-line="41" selection-end-column="16" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -182,9 +57,11 @@
         <option value="$PROJECT_DIR$/zlxs-web/src/main/java/com/geng/cpw/zlxsweb/annotation/BaseService.java" />
         <option value="$PROJECT_DIR$/zlxs-web/pom.xml" />
         <option value="$PROJECT_DIR$/zlxs-web/src/main/java/com/geng/cpw/zlxsweb/base/BaseServiceImpl.java" />
-        <option value="$PROJECT_DIR$/zlxs-web/src/main/java/com/geng/cpw/zlxsweb/controller/LoginController.java" />
         <option value="$PROJECT_DIR$/zlxs-web/src/main/java/com/geng/cpw/zlxsweb/common/generator/MybatisGeneratorUtil.java" />
         <option value="$PROJECT_DIR$/zlxs-web/src/main/java/com/geng/cpw/zlxsweb/config/DataBaseConfiguration.java" />
+        <option value="$PROJECT_DIR$/zlxs-web/src/main/java/com/geng/cpw/zlxsweb/listener/ApplicationContextListener.java" />
+        <option value="$PROJECT_DIR$/zlxs-web/src/main/java/com/geng/cpw/zlxsweb/config/WebAppConfigurer.java" />
+        <option value="$PROJECT_DIR$/zlxs-web/src/main/java/com/geng/cpw/zlxsweb/controller/LoginController.java" />
       </list>
     </option>
   </component>
@@ -217,8 +94,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="10" />
-    <option name="y" value="20" />
+    <option name="x" value="20" />
+    <option name="y" value="8" />
     <option name="width" value="1284" />
     <option name="height" value="728" />
   </component>
@@ -277,22 +154,14 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="zlxsweb" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="zlxs" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zlxs" type="462c0819:PsiDirectoryNode" />
-              <item name="zlxs-web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -303,7 +172,8 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546673195259" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546673720109" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../zlxsC" />
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -348,87 +218,87 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1546660334717</updated>
-      <workItem from="1546660341410" duration="2453000" />
+      <workItem from="1546660341410" duration="3045000" />
+      <workItem from="1546675339469" duration="8146000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2453000" />
+    <option name="totallyTimeSpent" value="11191000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1320" height="784" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Designer" />
-      <window_info id="Image Layers" />
-      <window_info id="Capture Tool" />
-      <window_info id="UI Designer" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info id="Web" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24801272" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.32460317" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Spring" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" />
-      <window_info anchor="bottom" id="Problems" />
-      <window_info anchor="bottom" id="Java Enterprise" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" weight="0.30658105" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.58426964" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.60223645" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Maven" weight="0.3298887" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Bean Validation" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32854864" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32744783" />
+      <window_info anchor="bottom" id="Problems" order="12" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" />
+      <window_info anchor="bottom" id="Database Changes" order="14" />
+      <window_info anchor="bottom" id="Version Control" order="15" weight="0.30658105" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.3298887" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
     </layout>
     <layout-to-restore>
-      <window_info id="Designer" order="0" />
-      <window_info id="Image Layers" order="1" />
-      <window_info id="Capture Tool" order="2" />
-      <window_info id="UI Designer" order="3" />
-      <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info id="Web" order="5" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="6" visible="true" weight="0.24801272" />
-      <window_info id="Structure" order="7" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Spring" order="0" />
-      <window_info anchor="bottom" id="Terminal" order="1" />
-      <window_info anchor="bottom" id="Docker" order="2" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="4" />
-      <window_info anchor="bottom" id="Problems" order="5" />
-      <window_info anchor="bottom" id="Java Enterprise" order="6" />
-      <window_info anchor="bottom" id="Database Changes" order="7" />
-      <window_info anchor="bottom" id="Version Control" order="8" weight="0.30658105" />
-      <window_info anchor="bottom" id="Message" order="9" />
-      <window_info anchor="bottom" id="Find" order="10" />
-      <window_info anchor="bottom" id="Run" order="11" />
-      <window_info anchor="bottom" id="Debug" order="12" weight="0.58426964" />
-      <window_info anchor="bottom" id="Cvs" order="13" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="14" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="15" />
-      <window_info anchor="right" id="Maven" order="0" visible="true" weight="0.3298887" />
-      <window_info anchor="right" id="Palette" order="1" />
-      <window_info anchor="right" id="Capture Analysis" order="2" />
-      <window_info anchor="right" id="Database" order="3" />
-      <window_info anchor="right" id="Palette&#9;" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Bean Validation" order="6" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="7" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="8" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="9" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.32460317" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.6063123" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32854864" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32744783" />
+      <window_info anchor="bottom" id="Problems" order="12" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" />
+      <window_info anchor="bottom" id="Database Changes" order="14" />
+      <window_info anchor="bottom" id="Version Control" order="15" weight="0.30658105" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.3298887" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -475,27 +345,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/zlxs-web/src/main/java/com/geng/cpw/zlxsweb/controller/LoginController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zlxs-web/src/main/java/com/geng/cpw/zlxsweb/config/WebAppConfigurer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zlxs-web/src/main/java/com/geng/cpw/zlxsweb/listener/ApplicationContextListener.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/zlxs-web/src/main/java/com/geng/cpw/zlxsweb/ServletInitializer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
@@ -533,7 +382,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/zlxs-web/src/main/java/com/geng/cpw/zlxsweb/base/BaseServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="953">
+        <state relative-caret-position="7011">
           <caret line="378" column="39" selection-start-line="378" selection-start-column="39" selection-end-line="378" selection-end-column="39" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -548,17 +397,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/zlxs-web/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="81" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/zlxs-web/src/main/java/com/geng/cpw/zlxsweb/common/generator/MybatisGeneratorUtil.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="192" column="51" lean-forward="true" selection-start-line="192" selection-start-column="51" selection-end-line="192" selection-end-column="51" />
+        <state relative-caret-position="3401">
+          <caret line="192" column="51" selection-start-line="192" selection-start-column="51" selection-end-line="192" selection-end-column="51" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -567,8 +409,53 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/zlxs-web/src/main/java/com/geng/cpw/zlxsweb/config/DataBaseConfiguration.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="29" column="83" selection-start-line="29" selection-start-column="83" selection-end-line="29" selection-end-column="83" />
+        <state relative-caret-position="1273">
+          <caret line="89" column="7" selection-start-line="89" selection-start-column="7" selection-end-line="89" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zlxs-web/src/main/java/com/geng/cpw/zlxsweb/listener/ApplicationContextListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="684">
+          <caret line="45" column="71" selection-start-line="45" selection-start-column="71" selection-end-line="45" selection-end-column="71" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zlxs-web/src/main/java/com/geng/cpw/zlxsweb/config/WebAppConfigurer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="17" column="51" selection-start-line="17" selection-start-column="51" selection-end-line="17" selection-end-column="51" />
+          <folding>
+            <element signature="e#916#1330#0" expanded="true" />
+            <element signature="e#1329#1330#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zlxs-web/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.1.3.RELEASE/spring-webmvc-5.1.3.RELEASE.jar!/org/springframework/web/servlet/config/annotation/WebMvcConfigurerAdapter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="19" column="45" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zlxs-web/src/main/java/com/geng/cpw/zlxsweb/controller/LoginController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="356">
+          <caret line="41" column="16" selection-start-line="41" selection-start-column="16" selection-end-line="41" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
