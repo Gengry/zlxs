@@ -63,7 +63,7 @@ export default {
   },
   data () {
     return {
-      collapsed: false,
+      collapsed: true,
       minLogo,
       maxLogo,
       isFullscreen: false
