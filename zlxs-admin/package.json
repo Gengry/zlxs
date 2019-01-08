@@ -4,7 +4,7 @@
   "author": "Lison<lison16new@163.com>",
   "private": false,
   "scripts": {
-    "dev": "vue-cli-service serve --open",
+    "dev": "vue-cli-service serve --port 4000",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint",
     "test:unit": "vue-cli-service test:unit",
@@ -43,6 +43,7 @@
     "@vue/test-utils": "^1.0.0-beta.10",
     "chai": "^4.1.2",
     "eslint-plugin-cypress": "^2.0.1",
+    "eslint-plugin-vue-libs": "^3.0.0",
     "less": "^2.7.3",
     "less-loader": "^4.0.5",
     "lint-staged": "^6.0.0",

@@ -13,7 +13,8 @@ module.exports = {
       'x-invalid-end-tag': false
     }],
     'no-undef': 'off',
-    'camelcase': 'off'
+    'camelcase': 'off',
+    'indent':[1,2],
   },
   parserOptions: {
     parser: 'babel-eslint'
